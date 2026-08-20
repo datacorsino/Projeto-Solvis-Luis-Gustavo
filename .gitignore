@@ -1,0 +1,13 @@
+# parquets (baixados automaticamente na 1a execucao)
+data/
+
+# CSVs gerados (saida do ETL)
+output/csv/
+
+# Briefing Q1 (nao incluido nesta entrega)
+Q1_brief.py
+output/Q1_briefing.pdf
+
+# Python cache
+__pycache__/
+*.pyc
